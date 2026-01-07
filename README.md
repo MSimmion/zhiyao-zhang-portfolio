@@ -16,7 +16,7 @@ Currently building skills in Python, data analysis, and machine learning for dat
 ### 2. Interactive Forum Web App (Fall 2023)
 - Team project: Backend with SQL for 100+ thread/reply types (text/images).
 - Generated dummy data and tested functionality.
-- Code in teammate's repo: [link if public] (contributed SQL backend).
+- Code in teammate's repo: [https://github.com/mikey-js/theforum.git].
 
 ### 3. Numerical Methods for Machine Learning Presentation (Fall 2024)
 - Explored Graph Neural Networks and Personalized PageRank.
