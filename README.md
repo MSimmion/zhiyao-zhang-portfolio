@@ -5,7 +5,7 @@ Case Western Reserve University | CS Major
 LinkedIn: linkedin.com/in/michaelzhang112 | Email: zxz1233@case.edu
 
 ## About Me
-Building skills in Python, data analysis, and machine learning with a focus on applied AI. Gap semester dedicated to freeCodeCamp certifications and personal projects.
+Building skills in Python, data analysis, and machine learning with a focus on applied AI. 
 
 ## Research & Projects
 
@@ -35,9 +35,5 @@ Building skills in Python, data analysis, and machine learning with a focus on a
 - Used SQL for backend data handling (100+ thread/reply types, text/images).
 - Code in team repository: [https://github.com/mikey-js/theforum.git].
 
-### Python & Data Projects (2026 – Ongoing)
-- freeCodeCamp Python/data analysis certification in progress.
-- Small data scripts and experiments.
-- More coming soon.
 
 Feel free to connect!
