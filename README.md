@@ -5,26 +5,39 @@ Case Western Reserve University | CS Major
 LinkedIn: linkedin.com/in/michaelzhang112 | Email: zxz1233@case.edu
 
 ## About Me
-Currently building skills in Python, data analysis, and machine learning for data applications. Gap semester focused on freeCodeCamp certifications and personal projects.
+Building skills in Python, data analysis, and machine learning with a focus on applied AI. Gap semester dedicated to freeCodeCamp certifications and personal projects.
 
-### 1. Cleveland Clinic Neuro-Imaging Research (2024–2025)
-- Implemented CNMF deep-learning model in MATLAB to analyze 100,000+ brain images.
-- Extracted neuronal motifs from noisy signals for autism-related patterns.
+## Research & Projects
+
+### Cleveland Clinic Neuro-Imaging Research (2024 – July 2025)
+- Implemented and modified fpCNMF deep-learning model in MATLAB to analyze 100,000+ brain images.
+- Extracted neuronal motifs from noisy signals for autism-related studies.
 - Awarded URO SOURCE - STEM 2025 Summer Research Scholar ($4,000).
-- [Motif analysis reports PDF] | [Related updates PDF if you have]
+- [Research Proposal](clinic-research/proposal.pdf)
+- [Award Letter](clinic-research/award-letter.pdf)
+- Code modifications available on request (lab confidentiality).
 
-### 2. Interactive Forum Web App (Fall 2023)
-- Team project: Backend with SQL for 100+ thread/reply types (text/images).
-- Generated dummy data and tested functionality.
-- Code in teammate's repo: [https://github.com/mikey-js/theforum.git].
+### Numerical Methods for Machine Learning (Fall 2024)
+- Course project implementing APPNP (Graph Neural Networks with Personalized PageRank).
+- Explored propagation, evaluation metrics, and accuracy vs dimensionality.
+- [Code notebooks](numerical-ml/codes)
+- [Presentation PDF](numerical-ml/Predict-Then-Propagate.pdf)
 
-### 3. Numerical Methods for Machine Learning Presentation (Fall 2024)
-- Explored Graph Neural Networks and Personalized PageRank.
-- [Predict Then Propagate PPT PDF]
+### Interactive Forum Web App (Nov–Dec 2023)
+- Team project: Built full interactive forum with user/thread/reply features.
+- My major contributions:
+  - Initial Database Design, Initial Design Review, Initial ER Diagram (team)
+  - Updated ER Diagram
+  - Functional Dependencies
+  - Physical Database Design
+  - UI / Menu System
+  - Post Thread, Post Reply, Update Reply, Delete Reply
+- Used SQL for backend data handling (100+ thread/reply types, text/images).
+- Code in team repository .
 
-### 4. Python Data Projects (2026 – Ongoing)
-- freeCodeCamp Python certification in progress.
-- Small scripts for data processing (stock analysis, etc.).
-- 
+### Python & Data Projects (2026 – Ongoing)
+- freeCodeCamp Python/data analysis certification in progress.
+- Small data scripts and experiments.
+- More coming soon.
 
-More coming — open to connections!
+Feel free to connect!
