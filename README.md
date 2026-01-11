@@ -17,7 +17,7 @@ Building skills in Python, data analysis, and machine learning with a focus on a
 - [Award Letter](clinic-research/)
 - (Preprocessing pipeline overview - see Technical Summary PDF for details)
 - [Research Technical Summary](clinic-research/)
-- ![Preprocessing Pipeline](images/FlowChart.png)
+- ![Preprocessing Pipeline]
 - Code modifications available on request (lab confidentiality).
 
 ### Numerical Methods for Machine Learning (Fall 2024)
