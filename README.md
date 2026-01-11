@@ -13,10 +13,10 @@ Building skills in Python, data analysis, and machine learning with a focus on a
 - Implemented and modified fpCNMF deep-learning model in MATLAB to analyze 100,000+ brain images.
 - Extracted neuronal motifs from noisy signals for autism-related studies.
 - Awarded URO SOURCE - STEM 2025 Summer Research Scholar ($4,000).
-- [Research Proposal](clinic-research/Research Proposal_Zhiyao_Zhang.docx)
-- [Award Letter](clinic-research/Zhiyao Zhang.docx.pdf)
+- [Research Proposal](clinic-research/)
+- [Award Letter](clinic-research/)
 - (Processing pipeline overview - see Technical Summary PDF for details)
-- [Research Technical Summary](clinic-research/Research Technical Summary (1).docx)
+- [Research Technical Summary](clinic-research/)
 - ![Processing Pipeline](images/FlowChartFinal.png)
 - Code modifications available on request (lab confidentiality).
 
@@ -24,7 +24,7 @@ Building skills in Python, data analysis, and machine learning with a focus on a
 - Course project implementing APPNP (Graph Neural Networks with Personalized PageRank).
 - Explored propagation, evaluation metrics, and accuracy vs dimensionality.
 - [Code notebooks](numerical-ml/codes)
-- [Presentation PDF](numerical-ml/annotated-Final%20Presentation.pptx.pdf)
+- [Presentation PDF](numerical-ml/)
 - Results: Simulated noise on graph and effect on APPNP accuracy (MSE History):
 ![APPNP MSE Results](images/appnp_mse_results.png)
 
