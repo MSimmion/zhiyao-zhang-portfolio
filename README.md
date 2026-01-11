@@ -15,9 +15,9 @@ Building skills in Python, data analysis, and machine learning with a focus on a
 - Awarded URO SOURCE - STEM 2025 Summer Research Scholar ($4,000).
 - [Research Proposal](clinic-research/)
 - [Award Letter](clinic-research/)
-- (Preprocessing pipeline overview - see Technical Summary PDF for details)
+- (Processing pipeline overview - see Technical Summary PDF for details)
 - [Research Technical Summary](clinic-research/)
-- ![Preprocessing Pipeline]
+- ![Processing Pipeline](images/FlowChartFinal.png)
 - Code modifications available on request (lab confidentiality).
 
 ### Numerical Methods for Machine Learning (Fall 2024)
