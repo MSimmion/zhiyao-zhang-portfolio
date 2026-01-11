@@ -15,6 +15,9 @@ Building skills in Python, data analysis, and machine learning with a focus on a
 - Awarded URO SOURCE - STEM 2025 Summer Research Scholar ($4,000).
 - [Research Proposal](clinic-research/)
 - [Award Letter](clinic-research/)
+- (Preprocessing pipeline overview - see Technical Summary PDF for details)
+- [Research Technical Summary](clinic-research/)
+![Preprocessing Pipeline](images/flowchart.png)
 - Code modifications available on request (lab confidentiality).
 
 ### Numerical Methods for Machine Learning (Fall 2024)
@@ -22,6 +25,14 @@ Building skills in Python, data analysis, and machine learning with a focus on a
 - Explored propagation, evaluation metrics, and accuracy vs dimensionality.
 - [Code notebooks](numerical-ml/codes)
 - [Presentation PDF](numerical-ml/)
+- Results: Simulated noise on HW3 graph and effect on APPNP accuracy (MSE History):
+![APPNP MSE Results](images/appnp-mse-results.png)
+
+GCN MSE History across training epochs under noise:
+![GCN MSE Results](images/gcn-mse-results.png)
+
+Aggregated MSE History (APPNP + GCN):
+![All MSE Results](images/all-mse-results.png)
 
 ### Interactive Forum Web App (Nov–Dec 2023)
 - Team project: Built full interactive forum with user/thread/reply features.
@@ -34,6 +45,7 @@ Building skills in Python, data analysis, and machine learning with a focus on a
   - Post Thread, Post Reply, Update Reply, Delete Reply
 - Used SQL for backend data handling (100+ thread/reply types, text/images).
 - Code in team repository: [https://github.com/mikey-js/theforum.git].
-
+ER Diagram (my contribution to database design):
+![Forum ER Diagram](images/erd.png)
 
 Feel free to connect!
