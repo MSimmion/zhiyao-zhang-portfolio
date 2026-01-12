@@ -30,8 +30,8 @@
 **Tech Stack:** Python, PyTorch Geometric, NetworkX, Jupyter
 
 Example MSE Results (noise perturbations):
-![APPNP MSE History](images/appnp-mse-results.png)
-![GCN & All MSE History](images/gcn-mse-results.png)
+![APPNP MSE History](images/appnp_mse_results.png)
+![GCN & All MSE History](images/gcn_mse_results.png)
 
 ### Full-Stack Interactive Forum Web App
 **Team Project** (Nov–Dec 2023)
@@ -41,7 +41,7 @@ Example MSE Results (noise perturbations):
 **Tech Stack:** SQL, Database Design (ER Diagrams), Backend Logic
 
 Database Structure (ER Diagram):
-![Forum ER Diagram](images/forum-er-diagram.png)
+![Forum ER Diagram](images/erd.png)
 
 ## 📁 Repository Navigation
 - `./cleveland_clinic_analysis/` → Research proposal, award letter, and method summary.
