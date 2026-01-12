@@ -5,7 +5,7 @@
 [Email: zxz1233@case.edu](mailto:zxz1233@case.edu) | [LinkedIn](https://linkedin.com/in/michaelzhang112) | [View Technical Research Summary (PDF)](clinic-research/Research_Technical_Summary.pdf) 
 
 ## 🧠 Featured Project: Large-Scale Neural Data Analysis Pipeline
-**Cleveland Clinic Lerner Research Institute** | Research Assistant | 2023–2024  
+**Cleveland Clinic Lerner Research Institute** | Research Assistant | 2023–2025  
 **Core Contribution:** Designed and implemented an end-to-end preprocessing pipeline for high-noise calcium imaging data (100,000+ frames).
 
 - **Challenge:** Massive computational load and vascular artifacts obscuring neural signals.
