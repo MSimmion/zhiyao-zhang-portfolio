@@ -2,7 +2,7 @@
 
 **Case Western Reserve University | CS Major**  
 **Focus:** Applied Machine Learning, Data Pipeline Engineering, Computational Neuroscience  
-[Email: zxz1233@case.edu](mailto:zxz1233@case.edu) | [LinkedIn](https://linkedin.com/in/michaelzhang112) | [View Technical Research Summary (PDF)](https://github.com/MSimmion/zhiyao-zhang-portfolio/raw/main/Zhiyao_Zhang_Technical_Summary.pdf) 
+[Email: zxz1233@case.edu](mailto:zxz1233@case.edu) | [LinkedIn](https://linkedin.com/in/michaelzhang112) | [View Technical Research Summary (PDF)](clinic-research/Research_Technical_Summary.pdf) 
 
 ## 🧠 Featured Project: Large-Scale Neural Data Analysis Pipeline
 **Cleveland Clinic Lerner Research Institute** | Research Assistant | 2023–2024  
@@ -17,7 +17,7 @@
 
 **Tech Stack:** MATLAB, ImageJ/Fiji, fpCNMF, Data Pipeline Architecture, Performance Optimization
 
-(Full details in [Research Technical Summary PDF](#))
+(Full details in [Research Technical Summary PDF](clinic-research/Research_Technical_Summary.pdf))
 
 ## 📈 Academic & Research Projects
 
