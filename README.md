@@ -17,7 +17,7 @@
 
 **Tech Stack:** MATLAB, ImageJ/Fiji, fpCNMF, Data Pipeline Architecture, Performance Optimization
 
-(Full details in [Research Technical Summary PDF](clinic-research/Research_Technical_Summary.pdf))
+(Full details in [Research Technical Summary PDF](clinic-research/Research_Technical_Summary.pdf)– includes flowchart and method summary)
 
 ## 📈 Academic & Research Projects
 
