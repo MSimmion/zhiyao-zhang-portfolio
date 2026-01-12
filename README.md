@@ -1,51 +1,54 @@
 # Zhiyao (Mike) Zhang - Computer Science Portfolio
 
-Case Western Reserve University | CS Major 
+**Case Western Reserve University | CS Major**  
+**Focus:** Applied Machine Learning, Data Pipeline Engineering, Computational Neuroscience  
+[Email: zxz1233@case.edu](mailto:zxz1233@case.edu) | [LinkedIn](https://linkedin.com/in/michaelzhang112) | [View Technical Research Summary (PDF)](https://github.com/MSimmion/zhiyao-zhang-portfolio/raw/main/Zhiyao_Zhang_Technical_Summary.pdf) 
 
-LinkedIn: linkedin.com/in/michaelzhang112 | Email: zxz1233@case.edu
+## 🧠 Featured Project: Large-Scale Neural Data Analysis Pipeline
+**Cleveland Clinic Lerner Research Institute** | Research Assistant | 2023–2024  
+**Core Contribution:** Designed and implemented an end-to-end preprocessing pipeline for high-noise calcium imaging data (100,000+ frames).
 
-## About Me
-Building skills in Python, data analysis, and machine learning with a focus on applied AI. 
+- **Challenge:** Massive computational load and vascular artifacts obscuring neural signals.
+- **My Solution:**
+  1. Standardized masking protocol in ImageJ to isolate brain regions.
+  2. Custom MATLAB scripts for intelligent downsampling and 3D-to-2D restructuring — **achieved 4x computational efficiency gain**.
+  3. Normalization and integration for fpCNMF deep learning model.
+- **Results:** Enabled extraction of distinct spatiotemporal neuronal motifs, revealing meaningful differences in autism-related patterns.
 
-## Research & Projects
+**Tech Stack:** MATLAB, ImageJ/Fiji, fpCNMF, Data Pipeline Architecture, Performance Optimization
 
-### Cleveland Clinic Neuro-Imaging Research (2024 – July 2025)
-- Implemented and modified fpCNMF deep-learning model in MATLAB to analyze 100,000+ brain images.
-- Extracted neuronal motifs from noisy signals for autism-related studies.
-- Awarded URO SOURCE - STEM 2025 Summer Research Scholar ($4,000).
-- [Research Proposal](clinic-research/)
-- [Award Letter](clinic-research/)
-- (Processing pipeline overview - see Technical Summary PDF for details)
-- [Research Technical Summary](clinic-research/)
-- ![Processing Pipeline](images/FlowChartFinal.png)
-- Code modifications available on request (lab confidentiality).
+(Full details in [Research Technical Summary PDF](#))
 
-### Numerical Methods for Machine Learning (Fall 2024)
-- Course project implementing APPNP (Graph Neural Networks with Personalized PageRank).
-- Explored propagation, evaluation metrics, and accuracy vs dimensionality.
-- [Code notebooks](numerical-ml/codes)
-- [Presentation PDF](numerical-ml/)
-- Results: Simulated noise on graph and effect on APPNP accuracy (MSE History):
-![APPNP MSE Results](images/appnp_mse_results.png)
+## 📈 Academic & Research Projects
 
-- GCN MSE History across training epochs under noise:
-![GCN MSE Results](images/gcn_mse_results.png)
+### Graph Neural Network Robustness Analysis
+**Numerical Methods for Machine Learning Course Project** (Fall 2024)
+- Implemented APPNP (Approximate Personalized Propagation of Neural Predictions) using Personalized PageRank.
+- Analyzed propagation mechanisms, evaluation metrics, and robustness to simulated noise on graph data.
+- Key Finding: APPNP showed improved performance under certain noise levels compared to GCN.
 
-- Aggregated MSE History (APPNP + GCN):
-![All MSE Results](images/all_mse_results.png)
+**Tech Stack:** Python, PyTorch Geometric, NetworkX, Jupyter
 
-### Interactive Forum Web App (Nov–Dec 2023)
-- Team project: Built full interactive forum with user/thread/reply features.
-- My major contributions:
-  - Initial Database Design, Initial Design Review, Initial ER Diagram (team)
-  - Updated ER Diagram
-  - Functional Dependencies
-  - Physical Database Design
-  - UI / Menu System
-  - Post Thread, Post Reply, Update Reply, Delete Reply
-- Used SQL for backend data handling (100+ thread/reply types, text/images).
-- Code in team repository: [https://github.com/mikey-js/theforum.git].
-- ER Diagram (my contribution to database design):
-![Forum ER Diagram](images/erd.png)
+Example MSE Results (noise perturbations):
+![APPNP MSE History](images/appnp-mse-results.png)
+![GCN & All MSE History](images/gcn-mse-results.png)
 
-Feel free to connect!
+### Full-Stack Interactive Forum Web App
+**Team Project** (Nov–Dec 2023)
+- Led backend database design and implementation.
+- Created ER model supporting 100+ thread/reply types (text/images) with full CRUD functionality.
+
+**Tech Stack:** SQL, Database Design (ER Diagrams), Backend Logic
+
+Database Structure (ER Diagram):
+![Forum ER Diagram](images/forum-er-diagram.png)
+
+## 📁 Repository Navigation
+- `./cleveland_clinic_analysis/` → Research proposal, award letter, and method summary.
+- `./numerical_ml/` → GNN notebooks, presentation, and results.
+- `./forum_web_app/` → Database design docs and contributions.
+
+**Thank you for visiting!**  
+I am actively seeking opportunities to apply my data engineering and machine learning skills to solve complex real-world problems, and I am preparing for transfer to a rigorous, industry-focused CS program in 2026. Feel free to reach out!
+
+[Email Me](mailto:zxz1233@case.edu) | [LinkedIn](https://linkedin.com/in/michaelzhang112)
